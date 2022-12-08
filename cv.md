@@ -24,7 +24,7 @@ alert( result );
 
 ## Experience
 
-[Study in RS School](https://rs.school/)
+Study in [RS School](https://rs.school/)
 
 ## Education
 
