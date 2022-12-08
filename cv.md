@@ -21,3 +21,13 @@ My main qualities are purposefulness and desire to achieve the best result.
 let result = sum(1, 2);
 alert( result );
 ```
+
+## Experience
+
+[Study in RS School](https://rs.school/)
+
+## Education
+
+* **University:** Arzamas Polytechnic Institute, information systems and technologies
+* **Courses:**
+  *[freeCodeCamp](https://www.freecodecamp.org/)
