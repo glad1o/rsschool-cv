@@ -29,5 +29,15 @@ alert( result );
 ## Education
 
 * **University:** Arzamas Polytechnic Institute, information systems and technologies
-* **Courses:**
- *[freeCodeCamp](https://www.freecodecamp.org/)
+* **Courses:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+## English
+
+**A1** In the process of studying
+
+## Contacts
+
+* **Location:** Arzamas, Nizhny Novgorod region, Russia
+* **Phone:** +79875365419
+* **Email:** alexanderrakhmanov931015@gmail.com
+* **Discord:** @glad1o
