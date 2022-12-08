@@ -30,4 +30,4 @@ alert( result );
 
 * **University:** Arzamas Polytechnic Institute, information systems and technologies
 * **Courses:**
-  *[freeCodeCamp](https://www.freecodecamp.org/)
+ *[freeCodeCamp](https://www.freecodecamp.org/)
