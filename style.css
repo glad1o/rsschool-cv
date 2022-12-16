@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box;
+  }
+html{
+ background-color: #e3e3e3;
+}
+
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  p {
+    font-size: 25px;
+  }
+
+  .skills-list {
+    font-size: 25px;
+  }
+
+  .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+
+  .nav-list {
+    list-style: none;
+  }
+
+  .nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  img {
+    width: 300px;
+    height: 400px;
+  }
+
+  .code-exmpl {
+    height: 210px;
+    width: 450px;
+    background-color: #b5b5b5;
+        
+  }
+
+   pre{
+    margin-left: -370px;
+    font-size: 25px;
+   }
+
+   .education-list {
+     font-size: 25px;
+   }
+
+   .contacts-list {
+    font-size: 25px;
+   }
+
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-left: 35%;
+  }
+
+.container-footer {
+  height: 120px;
+  width: 1000px;
+  padding-right: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background-color: #cfcaca;
+}
+
+.container-footer a {
+  font-size: 25px;
+  padding-left: 30px;
+}
+
+.container-footer img {
+  height: 100px;
+  width: 100px;
+}
+
+.container-footer p {
+  padding-left: 30px;
+}
