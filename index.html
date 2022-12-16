@@ -2,9 +2,90 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="assets/img/favicons/favicon.ico">
+    <title>CV</title>
 </head>
-<body></body>
+<body>
+    <header class="header">
+        <div class="container">
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="#aboutme" class="nav-link">About me</a></li>
+                    <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                    <li class="nav-item"><a href="#code" class="nav-link">Code Example</a></li>
+                    <li class="nav-item"><a href="#experience" class="nav-link">Experience</a></li>
+                    <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                    <li class="nav-item"><a href="#english" class="nav-link">English</a></li>
+                    <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                </ul>
+            </nav>
+            <h1 class="header-title">Alexander Rakhmanov</h1>
+            <img src="/rsschool-cv/assets/img/content/myphoto.jpg" alt="My Photo">
+        </div>
+    </header>
+    <main class="main">
+        <div class="container">
+            <section class="section" id="aboutme">
+                <h2>About me</h2>
+                <p>I quickly work with the team, get up to speed and completely immerse myself in development <br>
+                    My main qualities are purposefulness and desire to achieve the best result.</p>
+            </section>
+            <section class="section" id="skills">
+                <h2>Skills</h2>
+                <ul class="skills-list">
+                    <li>HTML</li>
+                    <li>CSS</li>
+                </ul>
+            </section>
+            <section class="section" id="code">
+                <h2>Code Example</h2>
+                <div class="code-exmpl">
+                    <pre>
+                        <code>
+                            function sum(a, b) {
+                                return a + b;
+                                }
+
+                                let result = sum(1, 2);
+                                alert( result );
+                        </code>
+                    </pre>
+                </div>
+            </section>
+            <section class="section" id="experience">
+                <h2>Experience</h2>
+                <p>Study in <a href="https://rs.school/">RS School</a></p>
+            </section>
+            <section class="section" id="education">
+                <h2>Education</h2>
+                <ul class="education-list">
+                   <li><b>University:</b> Arzamas Polytechnic Institute, information systems and technologies</li>
+                   <li><b>Courses:</b> <a href="https://www.freecodecamp.org/learn">freeCodeCamp</a></li>
+                   </ul>
+            </section>
+            <section class="section" id="english">
+                <h2>English</h2>
+                <p><b>A1:</b> In the process of studying</p>
+            </section>
+            <section class="section" id="contacts">
+                <h2>Contacts</h2>
+                <ul class="contacts-list">
+                    <li><b>Location:</b> Arzamas, Nizhny Novgorod region, Russia</li>
+                    <li><b>Phone:</b> +79875365419</li>
+                    <li><b>Email:</b> <a href="mailto:alexanderrakhmanov931015@gmail.com">alexanderrakhmanov931015@gmail.com</a></li>
+                    <li><b>Discord:</b> @glad1o</li>
+                </ul>
+            </section>
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="container container-footer">
+            <a href="https://github.com/glad1o/">GitHub</a>
+            <p>2022</p>
+            <a href="https://rs.school/js/" target="_blank"><img src="assets/img/svg/rs_school_js.svg" alt="Logo RS School"></a>
+        </div>
+    </footer>
+</body>
 </html>
