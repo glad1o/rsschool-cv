@@ -93,3 +93,9 @@ html{
 .container-footer p {
   padding-left: 30px;
 }
+
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
